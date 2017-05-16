@@ -1,4 +1,4 @@
-# electron-quick-start
+# electron_practice
 
 ### TODO:
 - Make a basic text editor in electron
