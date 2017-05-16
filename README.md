@@ -5,5 +5,7 @@
 - Add markdown functionality
 - Add markdown preview
 - Add in-line document math (like calca, stencila, soulver, etc.)
+
 </br>
+
 - Make a calendar/to-do list app
